@@ -1,11 +1,15 @@
-# 🥂Smart Contract Lottery Project✨
-##  📋 Overview 🔍:
-This project contains a smart contract written in Solidity for a lottery system. The smart contract facilitates a decentralized lottery where participants can buy tickets using cryptocurrency, and the winner is chosen randomly from the pool of participants.
+# Lottery Smart Contract
 
-## 😲 Features  🔍:
+This repository contains a Solidity smart contract for a decentralized lottery system.
 
-👉  Participants can purchase tickets by sending cryptocurrency to the contract. <br/>
-👉  The contract collects all ticket purchases into a prize pool.<br/>
-👉  At a predetermined time or when a certain condition is met, the contract selects a winner randomly from the pool of participants.<br/>
-👉  The winner receives the entire prize pool.<br/>
-👉  Transparency and fairness are ensured through the use of blockchain technology and smart contracts.<br/>
+## Overview
+
+The smart contract facilitates a lottery where participants can buy tickets using cryptocurrency, and a random winner is chosen from the pool of participants.
+
+## Features
+
+- Participants can buy tickets with cryptocurrency.
+- All ticket purchases contribute to a prize pool.
+- The contract randomly selects a winner.
+- The winner receives the entire prize pool.
+- Transparency and fairness are guaranteed through blockchain and smart contracts.
